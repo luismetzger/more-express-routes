@@ -1,0 +1,25 @@
+{
+  "name": "more-express-routes",
+  "version": "1.0.0",
+  "description": "| Objectives | | :---- | | Explain parsing URL params and using query string params | | Apply routing knowledge to build an Express application with dynamic routes | | Explain the usefulness of middleware (e.g., `body-parser`) |",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luismetzger/more-express-routes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luismetzger/more-express-routes/issues"
+  },
+  "homepage": "https://github.com/luismetzger/more-express-routes#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "nodemon": "^1.9.2"
+  }
+}
